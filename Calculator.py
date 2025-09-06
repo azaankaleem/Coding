@@ -1,0 +1,6 @@
+number1 = int(input("Write a number: "))
+number2 = int(input("Write another number: "))
+print("The sum is:", number1 + number2)
+print("The difference is:", number1 - number2)
+print("The product is:", number1 * number2)
+print("The quotient is:", number1 / number2)
